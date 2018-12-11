@@ -1,0 +1,21 @@
+
+#sec-design{
+	
+}
+#sec-design h4,
+#sec-design h1{
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+#sec-about{
+	background-color: #000000;
+	padding: 20px;
+}
+
+#sec-icons{
+	background-color: #111;
+	color: #fff;
+	padding: 20px 0;
+}
